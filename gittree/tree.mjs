@@ -362,7 +362,8 @@ async function main() {
     data = await fetchData(user, token);
   }
   if (opt['save-data']) { mkdirSync(dirname(opt['save-data']), { recursive: true }); writeFileSync(opt['save-data'], JSON.stringify(data)) }
-  const asOf = opt.date ? new Date(opt.date + 'T12:00:00Z') : new Date();
+  // pinned to noon UTC of the day, so repeated runs on the same day produce the same image unless the data changed
+  const asOf = new Date((opt.date || new Date().toISOString().slice(0, 10)) + 'T12:00:00Z');
   const seasonDate = opt['season-date'] ? new Date(opt['season-date'] + 'T12:00:00Z') : undefined;
   const exclude = typeof opt.exclude === 'string' ? opt.exclude.split(',').map(s => s.trim()).filter(Boolean) : opt.exclude === true ? [] : undefined;
   const { svg, metrics } = render(data, { asOf, seasonDate, exclude });
