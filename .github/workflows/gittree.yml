@@ -2,11 +2,11 @@ name: Grow GitTree
 
 on:
   schedule:
-    - cron: "8,23,38,53 * * * *" # every 15 minutes, off the busy top of the hour
+    - cron: "17 * * * *" # every hour, off the busy top of the hour
   workflow_dispatch: # "Run workflow" button in the Actions tab
   push:
     branches: [main]
-    paths: [".github/workflows/gittree.yml", "gittree/**"]
+    paths: [".github/workflows/gittree.yml"]
 
 permissions:
   contents: write
@@ -19,19 +19,5 @@ jobs:
   grow:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - name: Grow the tree from current activity
-        run: node gittree/tree.mjs --user "${{ github.repository_owner }}" --out assets/tree.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit the new tree only if it changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/tree.svg
-          if git diff --cached --quiet; then echo "No change in activity, nothing to commit."; exit 0; fi
-          git commit -m "Grow tree [skip ci]"
-          git push || (git pull --rebase && git push)
+      - uses: actions/checkout@v5
+      - uses: AlexanderGiannak/gittree@v1
