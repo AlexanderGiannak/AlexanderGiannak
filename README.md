@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexander 👋</h1>
+<h1 align="center">Hi, I'm Alexander ;)</h1>
 
 <p align="center">
   CS student at the University of South Florida. I love to program and make cool stuff:<br>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>🌳 This tree is grown from my real GitHub activity</b> and redrawn every hour.<br>
+  <b>🌳 This tree is uniquely-grown from my real GitHub activity</b> and redrawn every hour.<br>
   <sub>Trunk = every contribution · limbs = languages · branches = repos · leaves = recent commits · grass = the last year, one blade per day</sub>
 </p>
 
@@ -51,15 +51,7 @@ Redrawn every hour by [GitTree](https://github.com/AlexanderGiannak/gittree), a 
 | Project | What it is | Built with |
 | --- | --- | --- |
 | **[LenguaLearn](https://github.com/AlexanderGiannak/LenguaLearn)** · [lengualearn.com](https://lengualearn.com) | A free web app for learning Spanish vocabulary in short daily sessions, for independent learners and for classes from first year through AP and college. Spaced repetition, rich word pages and teacher dashboards. Students use anonymous handles, never names or emails. Sign-ups are opening soon | Next.js, TypeScript, Postgres, Drizzle, Better Auth, Tailwind |
-| **[Hivework](https://github.com/AlexanderGiannak/hive-work)** · [dashboard](https://hive-work-dashboard.vercel.app) | A team of small bots that runs 24/7. They stream live BTC/ETH prices, price Kalshi prediction markets and paper-trade them. A supervisor restarts any bot that crashes, and a kill switch stops all trading | Python, FastAPI, Redis Streams, Postgres, Docker |
 | **[GitTree](https://github.com/AlexanderGiannak/gittree)** | The tree above. A GitHub Action that grows an animated SVG tree from anyone's public activity, with no dependencies and no server | JavaScript, SVG, CSS animation, GitHub Actions |
-
-## 🏆 Hackathon builds · ShellHacks 2026
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **[Shaadiest Path](https://github.com/AlexanderGiannak/Shaadiest)** · [live](https://shaadiest.vercel.app) | Walking routes that trade a little distance for a lot less sun | Leaflet, SunCalc, Vite, Express |
-| **[Minus One](https://github.com/AlexanderGiannak/Minus-One)** | Finds roads in Miami where Braess's paradox may apply: closing a road could lower everyone's travel time | Python, OSMnx, GeoPandas, SciPy |
 
 ## 🧪 Sandbox: simulations and algorithms
 
@@ -81,7 +73,7 @@ Small interactive demos in plain JavaScript, no libraries, written by hand. Most
 ## 🛠️ Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,tailwind,postgres,redis,fastapi,docker,vite,express,vercel&perline=8" alt="JavaScript, TypeScript, Python, C++, HTML, CSS, React, Next.js, Tailwind, Postgres, Redis, FastAPI, Docker, Vite, Express, Vercel">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,postgres,docker,vercel&perline=8" alt="JavaScript, TypeScript, Python, C++, HTML, CSS, React, Next.js, Tailwind, Postgres, Docker, Vercel">
 </p>
 
 ## 📫 Say hi
