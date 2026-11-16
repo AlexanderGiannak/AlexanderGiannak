@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Alexander 👋</h1>
+
+<p align="center">
+  CS student at the University of South Florida. I love to program and make cool stuff:<br>
+  physics simulations, full-stack apps, bots that run all night, and the odd hackathon build.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexander-giannakoulias/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://alexandergiannak.github.io/Sandbox/"><img src="https://img.shields.io/badge/Sandbox-live%20demos-2ea44f?style=for-the-badge" alt="Sandbox: live demos"></a>
+  <a href="https://lengualearn.com"><img src="https://img.shields.io/badge/LenguaLearn-lengualearn.com-e8590c?style=for-the-badge" alt="LenguaLearn"></a>
+</p>
 
 <p align="center">
   <img src="assets/tree.svg" width="100%" alt="A tree grown from my GitHub activity">
@@ -22,20 +33,47 @@
 | Wind | Activity in the last 14 days |
 | Season | Today's date, changing gradually through the year |
 
-Redrawn every day by a GitHub Action.
+Redrawn every hour by [GitTree](https://github.com/AlexanderGiannak/gittree), a GitHub Action I built. Use it to grow your own.
 </details>
 
-<!--
-**AlexanderGiannak/AlexanderGiannak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I'm building
 
-Here are some ideas to get you started:
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[LenguaLearn](https://github.com/AlexanderGiannak/LenguaLearn)** · [lengualearn.com](https://lengualearn.com) | A free web app for learning Spanish vocabulary in short daily sessions, for independent learners and for classes from first year through AP and college. Spaced repetition, rich word pages and teacher dashboards. Students use anonymous handles, never names or emails. Sign-ups are opening soon | Next.js, TypeScript, Postgres, Drizzle, Better Auth, Tailwind |
+| **[Hivework](https://github.com/AlexanderGiannak/hive-work)** · [dashboard](https://hive-work-dashboard.vercel.app) | A team of small bots that runs 24/7. They stream live BTC/ETH prices, price Kalshi prediction markets and paper-trade them. A supervisor restarts any bot that crashes, and a kill switch stops all trading | Python, FastAPI, Redis Streams, Postgres, Docker |
+| **[GitTree](https://github.com/AlexanderGiannak/gittree)** | The tree above. A GitHub Action that grows an animated SVG tree from anyone's public activity, with no dependencies and no server | JavaScript, SVG, CSS animation, GitHub Actions |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Hackathon builds · ShellHacks 2026
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[Shaadiest Path](https://github.com/AlexanderGiannak/Shaadiest)** · [live](https://shaadiest.vercel.app) | Walking routes that trade a little distance for a lot less sun | Leaflet, SunCalc, Vite, Express |
+| **[Minus One](https://github.com/AlexanderGiannak/Minus-One)** | Finds roads in Miami where Braess's paradox may apply: closing a road could lower everyone's travel time | Python, OSMnx, GeoPandas, SciPy |
+
+## 🧪 Sandbox: simulations and algorithms
+
+Small interactive demos in plain JavaScript, no libraries, written by hand. Most share one theme: complex, often beautiful behavior emerging from simple rules. **[Open the Sandbox →](https://alexandergiannak.github.io/Sandbox/)**
+
+| Project | Technique | Links |
+| --- | --- | --- |
+| N-body simulator | Gravity with semi-implicit Euler integration, collision merging | [Demo](https://alexandergiannak.github.io/NBodySimulator/) · [Source](https://github.com/AlexanderGiannak/NBodySimulator) |
+| Charged particles | Coulomb force plus a short-range binding term | [Demo](https://alexandergiannak.github.io/Charge-Particle-Simulator/) · [Source](https://github.com/AlexanderGiannak/Charge-Particle-Simulator) |
+| Heat dispersal | Finite-difference heat equation | [Demo](https://alexandergiannak.github.io/HeatTransfer/) · [Source](https://github.com/AlexanderGiannak/HeatTransfer) |
+| Wave equation | Explicit 2D damped wave equation with reflecting walls | [Demo](https://alexandergiannak.github.io/WaveSimulator/) · [Source](https://github.com/AlexanderGiannak/WaveSimulator) |
+| Game of Life | B3/S23 cellular automaton | [Demo](https://alexandergiannak.github.io/Conway-Game-of-Life/) · [Source](https://github.com/AlexanderGiannak/Conway-Game-of-Life) |
+| Maze | Hunt-and-kill generation, BFS shortest-path solving | [Demo](https://alexandergiannak.github.io/Maze/) · [Source](https://github.com/AlexanderGiannak/Maze) |
+| Monte Carlo localization | Particle filter estimating a robot's pose from noisy sensors | [Demo](https://alexandergiannak.github.io/Monte-Carlo-Localization/) · [Source](https://github.com/AlexanderGiannak/Monte-Carlo-Localization) |
+| Traveling salesman | Ant colony optimization | [Demo](https://alexandergiannak.github.io/TravelingSalesman/) · [Source](https://github.com/AlexanderGiannak/TravelingSalesman) |
+| MNIST digit recognizer | A neural network's forward pass and backpropagation, written from scratch | [Demo](https://alexandergiannak.github.io/MNISTDigitRecognizer/) · [Source](https://github.com/AlexanderGiannak/MNISTDigitRecognizer) |
+| Big arithmetic | Arbitrary-precision integers with Karatsuba multiplication | [Demo](https://alexandergiannak.github.io/Big-Arithmetic/) · [Source](https://github.com/AlexanderGiannak/Big-Arithmetic) |
+
+## 🛠️ Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,tailwind,postgres,redis,fastapi,docker,vite,express,vercel&perline=8" alt="JavaScript, TypeScript, Python, C++, HTML, CSS, React, Next.js, Tailwind, Postgres, Redis, FastAPI, Docker, Vite, Express, Vercel">
+</p>
+
+## 📫 Say hi
+
+Find me on [LinkedIn](https://www.linkedin.com/in/alexander-giannakoulias/), or open an issue on any of my repos.
