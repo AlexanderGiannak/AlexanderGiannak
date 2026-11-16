@@ -73,7 +73,7 @@ Small interactive demos in plain JavaScript, no libraries, written by hand. Most
 ## 🛠️ Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,postgres,docker,vercel&perline=8" alt="JavaScript, TypeScript, Python, C++, HTML, CSS, React, Next.js, Tailwind, Postgres, Docker, Vercel">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,docker,vercel&perline=8" alt="JavaScript, TypeScript, Python, C++, HTML, CSS, Docker, Vercel">
 </p>
 
 ## 📫 Say hi
