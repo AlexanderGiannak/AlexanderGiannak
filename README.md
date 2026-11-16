@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>🌳 This tree is uniquely-grown from my real GitHub activity</b> and redrawn every hour.<br>
+  <b>🌳 This tree is uniquely grown from my real GitHub activity</b> and redrawn every hour.<br>
   <sub>Trunk = every contribution · limbs = languages · branches = repos · leaves = recent commits · grass = the last year, one blade per day</sub>
 </p>
 
