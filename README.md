@@ -12,11 +12,21 @@
 </p>
 
 <p align="center">
-  <img src="assets/tree.svg" width="100%" alt="A tree grown from my GitHub activity">
+  <img src="assets/tree.svg" width="100%" alt="A tree grown from my GitHub activity" title="This tree is grown from my real GitHub activity">
 </p>
 
+<p align="center">
+  <b>🌳 This tree is grown from my real GitHub activity</b> and redrawn every hour.<br>
+  <sub>Trunk = every contribution · limbs = languages · branches = repos · leaves = recent commits · grass = the last year, one blade per day</sub>
+</p>
+
+<!-- gittree:start -->
+<p align="center"><b>339</b> contributions · <b>70</b> active days · 🔥 <b>1</b>-day streak · <b>26</b> PRs merged this year · ⭐ <b>2</b> stars · 🍂 autumn</p>
+<p align="center"><img src="assets/tree-languages.svg" width="100%" alt="Limbs by language: JavaScript 49%, TypeScript 31%, Python 11%, C++ 9%"></p>
+<!-- gittree:end -->
+
 <details>
-<summary>How to read my tree</summary>
+<summary><b>🔍 What every part of the tree means</b></summary>
 
 | What you see | What it means |
 | --- | --- |
