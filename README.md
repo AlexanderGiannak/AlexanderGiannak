@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexander ;)</h1>
+<h1 align="center">Hi, I'm Alexander</h1>
 
 <p align="center">
   CS student at the University of South Florida. I love to program and make cool stuff:<br>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>🌳 This tree is uniquely grown from my real GitHub activity</b> and redrawn every hour.<br>
+  <b>This tree is uniquely grown from my real GitHub activity</b> and redrawn every hour.<br>
   <sub>Trunk = every contribution · limbs = languages · branches = repos · leaves = recent commits · grass = the last year, one blade per day</sub>
 </p>
 
@@ -26,7 +26,7 @@
 <!-- gittree:end -->
 
 <details>
-<summary><b>🔍 What every part of the tree means</b></summary>
+<summary><b>What every part of the tree means</b></summary>
 
 | What you see | What it means |
 | --- | --- |
@@ -46,14 +46,14 @@
 Redrawn every hour by [GitTree](https://github.com/AlexanderGiannak/gittree), a GitHub Action I built. Use it to grow your own.
 </details>
 
-## 🔭 What I'm building
+## What I'm building
 
 | Project | What it is | Built with |
 | --- | --- | --- |
 | **[LenguaLearn](https://github.com/AlexanderGiannak/LenguaLearn)** · [lengualearn.com](https://lengualearn.com) | A free web app for learning Spanish vocabulary in short daily sessions, for independent learners and for classes from first year through AP and college. Spaced repetition, rich word pages and teacher dashboards. Students use anonymous handles, never names or emails. Sign-ups are opening soon | Next.js, TypeScript, Postgres, Drizzle, Better Auth, Tailwind |
 | **[GitTree](https://github.com/AlexanderGiannak/gittree)** | The tree above. A GitHub Action that grows an animated SVG tree from anyone's public activity, with no dependencies and no server | JavaScript, SVG, CSS animation, GitHub Actions |
 
-## 🧪 Sandbox: simulations and algorithms
+## Sandbox: simulations and algorithms
 
 Small interactive demos in plain JavaScript, no libraries, written by hand. Most share one theme: complex, often beautiful behavior emerging from simple rules. **[Open the Sandbox →](https://alexandergiannak.github.io/Sandbox/)**
 
@@ -70,12 +70,12 @@ Small interactive demos in plain JavaScript, no libraries, written by hand. Most
 | MNIST digit recognizer | A neural network's forward pass and backpropagation, written from scratch | [Demo](https://alexandergiannak.github.io/MNISTDigitRecognizer/) · [Source](https://github.com/AlexanderGiannak/MNISTDigitRecognizer) |
 | Big arithmetic | Arbitrary-precision integers with Karatsuba multiplication | [Demo](https://alexandergiannak.github.io/Big-Arithmetic/) · [Source](https://github.com/AlexanderGiannak/Big-Arithmetic) |
 
-## 🛠️ Tools I use
+## Tools I use
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,docker,vercel&perline=8" alt="JavaScript, TypeScript, Python, C++, HTML, CSS, Docker, Vercel">
 </p>
 
-## 📫 Say hi
+## Say hi
 
 Find me on [LinkedIn](https://www.linkedin.com/in/alexander-giannakoulias/), or open an issue on any of my repos.
