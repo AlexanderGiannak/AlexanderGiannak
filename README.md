@@ -21,8 +21,8 @@
 </p>
 
 <!-- gittree:start -->
-<p align="center"><b>452</b> contributions · <b>79</b> active days · 🔥 <b>4</b>-day streak · <b>48</b> PRs merged this year · ⭐ <b>3</b> stars · 🍂 autumn</p>
-<p align="center"><img src="assets/tree-languages.svg" width="100%" alt="Limbs by language: JavaScript 45%, TypeScript 38%, Python 10%, C++ 8%"></p>
+<p align="center"><b>458</b> contributions · <b>79</b> active days · 🔥 <b>4</b>-day streak · <b>49</b> PRs merged this year · ⭐ <b>3</b> stars · 🍂 autumn</p>
+<p align="center"><img src="assets/tree-languages.svg" width="100%" alt="Limbs by language: JavaScript 44%, TypeScript 38%, Python 10%, C++ 8%"></p>
 <!-- gittree:end -->
 
 <details>
